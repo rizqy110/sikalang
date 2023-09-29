@@ -8,6 +8,15 @@
   <div class="d-f gg-15 ai-c"><h2>{{ .CurrentSection.Title }} — {{ .Title }}</h2></div>
   {{ .Page.TableOfContents }}
   {{- .Content -}}
+  <div class="d-f jc-sb ai-c">
+    {{ with .PrevInSection }}
+      {{ if ne .Params.sitemap_exclude true }}<a class="" href="{{ .Permalink }}"><< {{ .Title }}</a>{{ end }}
+    {{ end }}
+    {{ with .NextInSection }}
+      {{ if ne .Params.sitemap_exclude true }}<a class="" href="{{ .Permalink }}">{{ .Title }} >></a>{{ end }}
+    {{ end }}
+  </div>
+  {{- partial "related.html" . -}}
 </div>
 {{ else }}
 {{- .Content -}}
