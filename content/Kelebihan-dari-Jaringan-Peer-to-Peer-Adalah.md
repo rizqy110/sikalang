@@ -2,7 +2,7 @@
 title: "Kelebihan Dari Jaringan Peer to Peer Adalah"
 date: 2023-09-28T09:31:26Z
 draft: false
-image: ''
+image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlZAErc_WJ2Q8EoAuL5J-8eRpFDM7bkUScNy4e6j2JzHYe6FM8zPIuhyLFFX1J7ZySwjab9EyrGfpyH5XyUlPJ_WC45zn6MCh0B9hxqE105CWkL5l9H0nKiYgTO-xdo1gFvNmVGdZpGEtfVQA8iPTovDzpI4z0vNERm8-2WSAJjnF7cDZTXrgL0hP6Qo8/s1600/Kelebihan%20Dari%20Jaringan%20Peer%20to%20Peer%20Adalah.webp'
 description: "Kelebihan yang ditawarkan Jaringan Peer to Peer (P2P) adalah Desentralisasi, Kestabilan, Keamanan, Efisiensi Berbagi File, Ketersediaan Konten, Biaya Rendah, Skalabilitas Mudah, Privasi, Kecepatan Tinggi..."
 keywords:
 - Salah satu kelebihan jaringan peer to peer adalah
@@ -78,7 +78,6 @@ Jaringan P2P seringkali merupakan ekosistem terbuka di mana orang dapat berkontr
 
 Jadi, apa yang membuat jaringan Peer to Peer begitu istimewa? Kelebihan P2P mencakup desentralisasi, kestabilan, keamanan, efisiensi berbagi file, ketersediaan konten, biaya rendah, skalabilitas mudah, privasi, kecepatan tinggi, inovasi tanpa batas, kemudahan penggunaan, dukungan komunitas, penghematan bandwidth, dekentralisasi konten, dan ekosistem terbuka. Semua ini membuatnya menjadi salah satu inovasi terbesar dalam dunia teknologi informasi.
 
----
 ## **Pertanyaan Umum**
 
 1. ### Apakah jaringan P2P legal digunakan?
