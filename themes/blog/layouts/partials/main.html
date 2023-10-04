@@ -1,18 +1,10 @@
 {{ if isset .Params "tags" }}
 <div class="d-g gg-15 body d-b o-h w-f">
   <div class="p-r">
-    <img class="thumb of-c d-b" src="{{ .Params.image }}" alt="{{ delimit .Params.tags ", " }}">
+    <img class="thumb of-c d-b p-2" src="{{ .Params.image }}" alt="{{ delimit .Params.tags ", " }}">
     {{- partial "meta.html" . -}}
   </div>
   {{- .Content -}}
-  <div class="d-f jc-sb ai-c">
-    {{ with .PrevInSection }}
-      {{ if ne .Params.sitemap_exclude true }}<a class="" href="{{ .Permalink }}"><< {{ .Title }}</a>{{ end }}
-    {{ end }}
-    {{ with .NextInSection }}
-      {{ if ne .Params.sitemap_exclude true }}<a class="" href="{{ .Permalink }}">{{ .Title }} >></a>{{ end }}
-    {{ end }}
-  </div>
   {{- partial "related.html" . -}}
 </div>
 {{ else }}

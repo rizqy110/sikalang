@@ -2,7 +2,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <meta name="google-site-verification" content="CclfBLzMwMuGaljdTOF-OFpBBY-KGvWw9VbxGRXFbrU"/>
+  <meta name="google-site-verification" content="hDshSE_ZN0dRLfe69nEtyE8aS2KoKE2AOj1dh2ISYzk"/>
   <link rel="shortcut icon" href="{{ .Site.Params.favicon }}" type="image/x-icon">
   <title>{{- if .IsHome -}}{{ .Site.Title }} | Website Teknologi Indonesia{{- else if .IsSection -}}{{ .Page.Title }}{{- else if .IsNode -}}{{ .Site.Title }} - {{ .Page.Title }}{{- else if .IsPage -}}{{ .Page.Title }}{{- else -}}{{ .Site.Title }}{{- end -}}</title>
   {{ if .IsPage }}<meta name="keywords" content="{{ if .Params.Keywords }}{{ delimit .Params.Keywords ", " }}{{ else }}{{ end }}">{{ else }}{{ end }}
@@ -45,9 +45,6 @@
       document.head.appendChild(ignLzAd);
     }(), lzAd = true);
   }, true);
-  </script>
-  <script type="text/javascript">
-  var LazyAnalytics=false;window.addEventListener("scroll",function(){(0!=document.documentElement.scrollTop&&false===LazyAnalytics||0!=document.body.scrollTop&&false===LazyAnalytics)&&(!function(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="https://www.googletagmanager.com/gtag/js?id=G-D18EYWY0VM";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(e,a)}(),LazyAnalytics=true)},true);
   </script>
 
 </head>
