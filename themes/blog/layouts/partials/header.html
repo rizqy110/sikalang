@@ -2,7 +2,7 @@
   {{ if .IsHome }}
   <h1 class="fs-20">{{ .Title }}</h1>
   {{ else }}
-  <h1 class="fs-20">{{ .Page.Title }}</h1>
+  <h1 class="fs-20">{{ .Page.Title }} — {{ .CurrentSection.Title }}</h1>
   {{ end }}
   
   {{ if .IsHome }}

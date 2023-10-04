@@ -4,8 +4,6 @@
     <img class="thumb of-c d-b" src="{{ .Params.image }}" alt="{{ delimit .Params.tags ", " }}">
     {{- partial "meta.html" . -}}
   </div>
-  <div class="d-f gg-15 ai-c"><h2>{{ .CurrentSection.Title }} — {{ .Title }}</h2></div>
-  {{ .Page.TableOfContents }}
   {{- .Content -}}
   <div class="d-f jc-sb ai-c">
     {{ with .PrevInSection }}

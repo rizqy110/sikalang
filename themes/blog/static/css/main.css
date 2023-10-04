@@ -1,4 +1,4 @@
-html,body,a,abbr,acronym,address,applet,b,big,blockquote,caption,center,cite,code,dd,del,dfn,div,dl,dt,em,fieldset,font,form,input,h1,h2,h3,h4,h5,h6,i,iframe,img,ins,kbd,label,legend,li,object,p,pre,q,s,samp,small,span,strike,strong,sub,sup,table,tbody,tfoot,thead,tt,u,ul,var,select{padding:0;margin:0;outline:none;vertical-align:baseline;background:0 0;text-decoration:none}html{scroll-behavior:smooth}body{font-family:system-ui;word-wrap:break-word;margin:0;color:#4d5156;line-height:1.4;font-size:20px;background-color:#fff}a,ul,li,iframe,input,button{border:0;outline:0;vertical-align:baseline;text-decoration:none}a{color:#1a73e8}a:hover;article:hover{filter:brightness(91%);transition:1s;color:#209cee}
+html,body,a,abbr,acronym,address,applet,b,big,blockquote,caption,center,cite,code,dd,del,dfn,div,dl,dt,em,fieldset,font,form,input,h1,h2,h3,h4,h5,h6,i,iframe,img,ins,kbd,label,legend,li,object,p,pre,q,s,samp,small,span,strike,strong,sub,sup,table,tbody,tfoot,thead,tt,u,ul,var,select{padding:0;margin:0;outline:none;vertical-align:baseline;background:0 0;text-decoration:none}html{scroll-behavior:smooth}body{font-family:system-ui;word-wrap:break-word;margin:0;color:#4d5156;line-height:1.4;font-size:20px;background-color:#fff}a,ul,li,iframe,input,button{border:0;outline:0;vertical-align:baseline;text-decoration:none}a{color:#1a73e8}a:hover{filter:brightness(91%);transition:1s;color:#209cee}
 
 *,::after,::before,bs-bb{box-sizing:border-box}
 .ai-c{align-items:center}.ac-sb{align-content:space-between}
@@ -15,7 +15,7 @@ html,body,a,abbr,acronym,address,applet,b,big,blockquote,caption,center,cite,cod
 .ws-n{white-space:nowrap}.w-f{width:100%!important}
 
 #TableOfContents{padding:0 4px}
-ul{padding:0 0 0 17px;margin:0}ol{padding:0;margin:0}
+ul{padding:0;margin:0 0 0 27px}ol{padding:0;margin:0 0 0 27px}
 .body h2{font-size:25px}.body h3{font-size:24px}.body h4{font-size:23px}.body h5{font-size:22px}
 .d-1le{display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical}
 .d-5le{display:-webkit-box;-webkit-line-clamp:5;-webkit-box-orient:vertical}
