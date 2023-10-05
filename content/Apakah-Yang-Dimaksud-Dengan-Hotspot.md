@@ -2,7 +2,7 @@
 title: "Apakah Yang Dimaksud Dengan Hotspot"
 date: 2023-10-04T02:52:20Z
 draft: false
-image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBK6nMd1kxGa4HF03V_NtndVxZgmmJOoFdS3z_natn9toVjLyBPWaGZWH9_b-xCE8i3vGPn67W89m6IPsMYkZ364z92vOhtJ43S2ibPztppDKrTa58BM54g8NG2PAImeAlMkCUXVLGnTBBPNkBIn3SZtJYUWhnbwgqrHTzBnkFnwpg1RJ1hFmOd8AqkH8/s1024/apakah-yang-dimaksud-dengan-hotspot.webp'
+image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBK6nMd1kxGa4HF03V_NtndVxZgmmJOoFdS3z_natn9toVjLyBPWaGZWH9_b-xCE8i3vGPn67W89m6IPsMYkZ364z92vOhtJ43S2ibPztppDKrTa58BM54g8NG2PAImeAlMkCUXVLGnTBBPNkBIn3SZtJYUWhnbwgqrHTzBnkFnwpg1RJ1hFmOd8AqkH8/s480/apakah-yang-dimaksud-dengan-hotspot.webp'
 description: "Apakah yang dimaksud dengan hotspot? Hotspot adalah tempat di mana Anda dapat mengakses internet nirkabel, biasanya melalui sinyal Wi-Fi."
 keywords:
 - Apa itu hotspot

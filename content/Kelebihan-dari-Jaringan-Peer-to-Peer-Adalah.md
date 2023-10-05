@@ -2,7 +2,7 @@
 title: "Kelebihan Dari Jaringan Peer to Peer Adalah"
 date: 2023-10-02T09:31:26Z
 draft: false
-image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlZAErc_WJ2Q8EoAuL5J-8eRpFDM7bkUScNy4e6j2JzHYe6FM8zPIuhyLFFX1J7ZySwjab9EyrGfpyH5XyUlPJ_WC45zn6MCh0B9hxqE105CWkL5l9H0nKiYgTO-xdo1gFvNmVGdZpGEtfVQA8iPTovDzpI4z0vNERm8-2WSAJjnF7cDZTXrgL0hP6Qo8/s1600/Kelebihan%20Dari%20Jaringan%20Peer%20to%20Peer%20Adalah.webp'
+image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlZAErc_WJ2Q8EoAuL5J-8eRpFDM7bkUScNy4e6j2JzHYe6FM8zPIuhyLFFX1J7ZySwjab9EyrGfpyH5XyUlPJ_WC45zn6MCh0B9hxqE105CWkL5l9H0nKiYgTO-xdo1gFvNmVGdZpGEtfVQA8iPTovDzpI4z0vNERm8-2WSAJjnF7cDZTXrgL0hP6Qo8/s480/Kelebihan%20Dari%20Jaringan%20Peer%20to%20Peer%20Adalah.webp'
 description: "Kelebihan yang ditawarkan Jaringan Peer to Peer (P2P) adalah Desentralisasi, Kestabilan, Keamanan, Efisiensi Berbagi File, Ketersediaan Konten, Biaya Rendah, Skalabilitas Mudah, Privasi, Kecepatan Tinggi.."
 keywords:
 - Salah satu kelebihan jaringan peer to peer adalah

@@ -2,7 +2,7 @@
 title: "Cara Mengecek Paket Nelpon Telkomsel"
 date: 2023-10-04T07:10:40Z
 draft: false
-image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx8_BTMW9X5fHOKhemq8y9ldTjBWbYtDwkwU22ggcsTlGxE7_WBK0TaDacF5sjVcrBlLDArMK7_ZbD9FIC2LBZ_6NOtqzu4ylPJr2pD8EXtoAInnOzcgsM3QH-bH5YE9HavK-K5VJp1lGLLTL8hORTtOwz7D9OUippJne_fhFlpDkkLzylw6-ck5Hw2Y4/s1280/Cara-mengecek-paket-nelpon-telkomsel.webp'
+image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx8_BTMW9X5fHOKhemq8y9ldTjBWbYtDwkwU22ggcsTlGxE7_WBK0TaDacF5sjVcrBlLDArMK7_ZbD9FIC2LBZ_6NOtqzu4ylPJr2pD8EXtoAInnOzcgsM3QH-bH5YE9HavK-K5VJp1lGLLTL8hORTtOwz7D9OUippJne_fhFlpDkkLzylw6-ck5Hw2Y4/s480/Cara-mengecek-paket-nelpon-telkomsel.webp'
 description: "5 Cara cek paket nelpon telkomsel 2023, mengecek melalui aplikasi MyTelkomsel, Mengirimkan SMS, Menghubungi *888#, Mengunjungi situs Web resmi Telkomsel.."
 keywords:
 - Cara cek paket nelpon telkomsel 2023
