@@ -3,9 +3,10 @@ title: "Jurusan Teknik Komputer Dan Jaringan Bisa Kerja Apa?"
 date: 2023-10-04T23:26:13Z
 draft: false
 image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgLJpHY5RXDrp61pHGk0lUs8R909I0iUZUFsXGfKiIj0PJOPu6ob31fz4eaU3MW5yQrJ5Sl5KcgMv4FQ5WVZHBowkSr7YbK3YcwPiDlPEeDVzIKZvJUTXIjEAjRz7yUPGPtBHLwmVKUJyFK20HKZcwQEDOImoo5YWLvQ00OfBKcMry4wh349zKDacG_kw/s480/jurusan-teknik-komputer-dan-jaringan-bisa-kerja-apa.webp'
-description: "Temukan peluang karier menarik setelah lulus dari jurusan Teknik Komputer dan Jaringan. Baca artikel ini sekarang!"
+description: "Teknik komputer dan jaringan kerja apa? Temukan peluang karier menarik setelah lulus dari jurusan Teknik Komputer dan Jaringan. Baca artikel ini sekarang!"
 keywords:
 - Keahlian yang dibutuhkan di Teknik Komputer
+- Teknik komputer dan jaringan kerja apa
 - Skill Jaringan Komputer
 tags:
 - Jurusan Kuliah
