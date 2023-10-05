@@ -1,1 +1,1 @@
-# blog
+## [Tekno ID](https://teknoid.site)
