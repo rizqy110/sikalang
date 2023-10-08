@@ -10,7 +10,6 @@ keywords:
 - Bagaimana menggunakan hotspot
 - Hotspot vs WiFi
 tags:
-- Tutorial
 - Jaringan
 - Networking
 ---
