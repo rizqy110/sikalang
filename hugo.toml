@@ -1,13 +1,18 @@
-baseURL = 'https://teknoid.site'
-languageCode = 'en-us'
-title = 'Tekno ID'
+baseURL = 'https://sikalang.pages.dev'
+languageCode = 'id-ID'
+title = 'Kalang Pages'
 theme = 'blog'
 enableRobotsTXT = 'true'
-paginate = 10
+paginate = 8
 summaryLength = 40
 
+[sitemap]
+  changefreq = 'daily'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
 [params]
-  Description = 'Website yang membahas tentang Dunia Teknologi terbaru, terupdate, dan Paling Populer dimasanya.'
+  Description = 'KaLang (Kamus Petualang) adalah blog yang membahas seputar Dunia Petualangan di Indonesia.'
   favicon = 'https://img.icons8.com/external-tanah-basah-basic-outline-tanah-basah/512/202124/external-health-sport-tanah-basah-basic-outline-tanah-basah.png'
   twitter = 'Rizqy'
 
@@ -20,7 +25,7 @@ summaryLength = 40
   unsafe = true
 [related]
   includeNewer = true
-  threshold = 80
+  threshold = 100
   toLower = false
 
   [[related.indices]]

@@ -1,16 +1,32 @@
 {{ define "main" }}
 {{ .Content }}
-<h3 class="d-n">{{ .Site.Title }} - List Pages</h3>
+<h3 class="d-n">List {{ .CurrentSection.Title }}</h3>
+<div class="d-g gg-15">
   <div class="d-g gg-15 gtc-r">
-    {{ range .Pages }}
-    <article>
-      <h2 class="o-h to-e d-1le fs-20 mb-7">
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-      </h2>
-      <p class="fs-20 o-h to-e c-3 o-h to-e d-5le">
+    {{ range (.Paginate .Pages).Pages }}
+    <article itemtype="https://schema.org/CreativeWork" itemscope>
+      <a class="d-f ai-c gg-15 fs-20 mb-7 o-h" href="{{ .Permalink }}" rel="bookmark">
+        📃
+        <h2 class="o-h to-e d-1le fs-20" itemprop="headline">
+          {{ .Title }}
+        </h2>
+      </a>
+      <p class="fs-20 o-h to-e c-3 o-h d-5le" itemprop="text">
+        {{- partial "time_ago.html" . -}}— 
         {{ .Summary }}
       </p>
     </article>
     {{ end }}
   </div>
+
+  <div class="jc-c d-f gg-15 ai-c">
+    {{ if .Paginator.HasPrev }}
+    <a class="d-f ai-c c-1" href="{{ .Paginator.Prev.URL }}"><b>⬅ Kembali</b></a>
+    {{ end }}
+    <span class="bbs-d m-0 p-0">{{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }}</span>
+    {{ if .Paginator.HasNext }}
+    <a class="d-f ai-c br-3 c-1" href="{{ .Paginator.Next.URL }}"><b>➡ Lanjut</b></a>
+    {{ end }}
+  </div>
+</div>
 {{ end }}
