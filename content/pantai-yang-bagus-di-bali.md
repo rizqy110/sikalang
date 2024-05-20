@@ -1,6 +1,6 @@
 ---
 title: "Pantai Yang Bagus di Bali Sesuai Minat dan Kebutuhan"
-date: 2024-05-04T13:28:52+07:00
+date: 2024-05-20T09:28:52+07:00
 draft: false
 fKW: "Pantai Yang Bagus di Bali"
 img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrzv7R0QhJt4_LHIMwj4Y2ZRvgVdLiXTzJPvp4mjH6g7pC1WY0rDs1V3BjSLZ_Q2eOOl8grIjH_B-jzLOfS-sxlGdUXAeker7EnV_5XecDmORHSsK2IKYPcSHZ-FZ3-CVfgUE8yROOK058FohwwP2qZGV9tHDVzmnmrPHaKhYx9fxtI_x2iVOcjwOqHBH2/s480/Pantai%20Nusa%20Dua%20Bali.jpeg"
@@ -33,7 +33,7 @@ Sebelum menjelajahi berbagai **pantai yang bagus di Bali**, penting untuk memaha
 5.  **olasan:** Pengalaman dan rekomendasi dari wisatawan lain.
 
 Rekomendasi Pantai Yang Bagus di Bali
------------------------------------------
+-------------------------------------
 
 Kini, mari kita jelajahi berbagai **pantai yang bagus di Bali** yang sesuai dengan berbagai minat dan kebutuhan Anda:
 

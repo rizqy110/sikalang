@@ -7,4 +7,4 @@ sitemap_exclude: false
 url: /p/kontak-kami
 ---
 
-Saran, kritik, pertanyaan, dan hal-hal yang berkaitan dengan konten, serta bagaimana cara untuk beriklan dihalaman Website **[InpoRRA](/)** bisa disampaikan melalui email berikut ini: **Admobrizqy@gmail.com**
+Saran, kritik, pertanyaan, dan hal-hal yang berkaitan dengan konten, serta bagaimana cara untuk beriklan dihalaman Website **[Sikalang](/)** bisa disampaikan melalui email berikut ini: **voiceparenting@gmail.com**

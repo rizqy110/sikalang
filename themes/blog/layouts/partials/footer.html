@@ -1,13 +1,9 @@
 <div class="bc-2 p-5 pr-15 pl-15 ta-c">
   {{ if .IsHome }}
-  <div class="d-b fs-15">
-    <span class="mr-5"><a class="c-3" href="/p/disclaimer/">Disclaimer</a></span>
-    <span><a class="c-3" href="/p/terms-and-conditions/">Terms & Conditions</a></span>
-  </div>
-  <h3 class="fs-15">
-    <span>Copyright {{ emojify ":copyright:" }} {{ now.Year }} <a class="c-3" href="/">{{ .Site.Title }}</a> All rights reserved.</span>
-  </h3>
+  <p class="fs-15">
+    <span>Copyright {{ emojify ":copyright:" }} {{ now.Year }} <b><a class="c-3" href="/">{{ .Site.Title }}</a></b> All rights reserved.</span>
+  </p>
   {{ else }}
-  <span class="d-f jc-c fs-15"><a class="c-3" href="/p/kebijakan-privasi/">Kebijakan Privasi</a></span>
+  <p class="fs-15"><a class="c-3 bbs-d" href="/p/disclaimer/">Disclaimer</a> - <a class="c-3 bbs-d" href="/p/kebijakan-privasi/">Kebijakan Privasi</a> - <a class="c-3 bbs-d" href="/p/terms-and-conditions/">Terms & Conditions</a></p>
   {{ end }}
 </div>

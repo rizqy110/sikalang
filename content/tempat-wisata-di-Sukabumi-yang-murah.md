@@ -1,7 +1,7 @@
 ---
 title: "Tempat Wisata di Sukabumi yang Murah dan Menyenangkan"
 date: 2024-05-04T13:42:28+07:00
-draft: false
+draft: true
 fKW: "tempat wisata di Sukabumi yang murah"
 img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitAn2Cf935Vs2V6NpabUseTgvgjA2l0Ff9MPl8y30sVZHKONwoqWnYygKKx4Y_3YViPbnU1ndoaUARDXkSx9AEsB3Q-3eWHQQum2Rfcl5ulJLUtxadRkxjXc7OSE8MQqkiVsFTTO9705Lf11GF805d6R_XqD-NQyoFK_eeiq0aZ8Uj6un0kg5TM6AEnL0/s480/Curug%20Cikaso%20waterfall%20in%20Sukabumi.jpeg"
 description: "Mencari tempat wisata di Sukabumi yang murah? Tak perlu khawatir ya besty! Kota yang dijuluki 'Kota Moci' ini menawarkan berbagai pilihan wisata menarik dengan harga yang ramah kantong."
