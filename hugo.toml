@@ -1,6 +1,6 @@
 baseURL = 'https://sikalang.pages.dev'
 languageCode = 'id-ID'
-title = 'Kalang Pages'
+title = 'SiKalang Pages'
 theme = 'blog'
 enableRobotsTXT = 'true'
 paginate = 8
@@ -12,7 +12,7 @@ summaryLength = 40
   priority = 0.5
 
 [params]
-  Description = 'KaLang (Kamus Petualang) adalah blog yang membahas seputar Dunia Petualangan di Indonesia.'
+  Description = 'SIKaLang (Si Kamus Petualang) adalah blog yang membahas seputar Dunia Petualangan di Indonesia.'
   favicon = 'https://img.icons8.com/external-tanah-basah-basic-outline-tanah-basah/512/202124/external-health-sport-tanah-basah-basic-outline-tanah-basah.png'
   twitter = 'Rizqy'
 
